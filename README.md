@@ -8,3 +8,11 @@ active = ![Active 🔥](https://img.shields.io/badge/active-orange?style=for-the
 | Challenges  | State |
 | ------------- | :-----------: |
 | 30 days of Arrays & Linked lists  | ![Active 🔥](https://img.shields.io/badge/active-orange?style=for-the-badge) |
+
+
+## About This Repository
+
+collection of my coding journey
+
+Happy coding! 🚀💻
+
