@@ -2,14 +2,21 @@
 Link: (https://twitter.com/zbAnq81/status/1775060156419600649)
 
 ### Code:
-```c++
-int Solution::solve(vector<int> &A) {
-    int a=0;
-    sort(A.begin(),A.end());
-    for(int i=1;i<A.size()-1;i++){
-        if(A[i]>A[0] && A[i]<A[A.size()-1])
-            a++;
-    }
-    return a;
-}
+```python
+# Return the count of such elements which have strictly smaller and greater elements
+
+class Solution:
+    # @param A : list of integers
+    # @return an integer
+    def solve(self, A):
+        count = 0
+        n = len(A)
+        if n< 3:
+            return count
+        min_val = min(A)
+        max_val = max(A)
+        for ele in A :
+            if ele > min+val and ele < max_val:
+        return count
+
 ```
