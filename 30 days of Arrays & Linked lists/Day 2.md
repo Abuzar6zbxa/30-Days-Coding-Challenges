@@ -16,7 +16,8 @@ class Solution:
         min_val = min(A)
         max_val = max(A)
         for ele in A :
-            if ele > min+val and ele < max_val:
+            if ele > min_val and ele < max_val:
+                count += 1
         return count
 
 ```
