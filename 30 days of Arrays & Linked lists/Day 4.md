@@ -3,7 +3,8 @@ Link: (https://twitter.com/zbAnq81/status/1775784799409439192)
 
 ### Code:
 
-#
+## Longest odd even subsequence but can delete any number of middle elements
+
 ```c++
 int Solution::solve(vector<int> &A) {
     int ans = 0;
