@@ -1,9 +1,10 @@
 ## Day 6
 Link :-  https://twitter.com/zbAnq81/status/1776502041461858693
 
-### Code:
+## Code:
 
-# 
+#### Kth row of pascal triangle
+
 ```c++
 vector<int> Solution::getRow(int A) {
     vector<int> ans;
