@@ -3,9 +3,13 @@ Link :-  https://twitter.com/zbAnq81/status/1776502041461858693
 
 ## Code:
 
-#### Kth row of pascal triangle
+
 
 ```c++
+
+# Kth row of pascal triangle
+
+
 vector<int> Solution::getRow(int A) {
     vector<int> ans;
     int p=1;
