@@ -7,7 +7,7 @@ active = ![Active 🔥](https://img.shields.io/badge/active-orange?style=for-the
 -->
 | Challenges  | State |
 | ------------- | :-----------: |
-| 30 days of Arrays & Linked lists  | ![ENDED 🔥](https://img.shields.io/badge/active-orange?style=for-the-badge) |
+| 30 days of Arrays & Linked lists  | ![Ended ✅](https://img.shields.io/badge/completed-green?style=for-the-badge) |
 
 
 ## About This Repository
